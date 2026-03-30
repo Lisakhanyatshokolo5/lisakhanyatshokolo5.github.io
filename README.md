@@ -1,27 +1,36 @@
-# lisakhanyatshokolo5.github.io
+# lisakhanya Tshokolo Resume
+
 🎓Diploma ICT in Application Development Student
+
 📍Cape Peninsula University of Technology
+
 📞 081 565 9910
+
 📧 220239215@mycput.ac.za
 
 🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/)
+
 🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
 
 ---
 
-##🎓 Education
+## 🎓 Education
 
 **Centre of Science and Technology**
+
 National Senior Certification
+
 2015-2019
 
 **Cape Peninsula University Of Technology**
+
 Diploma in ICT: Application Development
+
 2024-present
 
---
+---
 
-##💻 Technical Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 - Java
