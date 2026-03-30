@@ -1,4 +1,5 @@
 # lisakhanya Tshokolo Resume
+![Lisa HeadShot](/Lisakhanya CV Photo.png)
 
 🎓Diploma ICT in Application Development Student
 
@@ -93,30 +94,6 @@ Mar 2020 - Aug 2020
 - Gained hands-on experience in front-end development.
 - Collaborated with team members on technical tasks.
 - Improved problem-solving and professional communication skills.
-
----
-
-## 🚀 Projects
-
-### 🎓 Student Enrolment System
-**Tech Stack:** Java ,Maven, Apache Derby , SQL , Git
-Oct 2025 - Nov 2025
-
-- Developed a Student Enrolment System for managing course registrations.
-- Built a Java Swing GUI integrated with a relational database.
-- Applied JDBC for secure data handling and structured SQL queries.
-- Designed a multi-tier architecture supporting real-time enrolment updates.
-
----
-
-### 📱 Gumtree Mobile App Redesign
-**Tool:** Figma
-Mar 2025 - Nov 2025
-
-- Redesigned the Gumtree mobile app applying UI/UX principles.
-- Improved usability, navigation flow, and visual consistency.
-- Created interactive prototypes and wireframes.
-- Focused on user-centered design and information architecture.
 
 ---
 
