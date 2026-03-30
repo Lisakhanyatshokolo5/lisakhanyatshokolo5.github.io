@@ -1,5 +1,4 @@
 # lisakhanya Tshokolo Resume
-![Lisa HeadShot](/Lisakhanya CV Photo.png)
 
 🎓Diploma ICT in Application Development Student
 
