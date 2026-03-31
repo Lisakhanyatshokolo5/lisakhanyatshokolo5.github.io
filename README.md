@@ -1,18 +1,6 @@
 # lisakhanya Tshokolo Resume
 
-🎓Diploma ICT in Application Development Student
-
-📍Cape Peninsula University of Technology
-
-📞 081 565 9910
-
-📧 220239215@mycput.ac.za
-
-🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/)
-
-🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
-
-
+📞 081 565 9910 | 📧 220239215@mycput.ac.za | 🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) | 🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
 
 
 ---
@@ -37,32 +25,11 @@ Diploma in ICT: Application Development
 
 ## 💻 Technical Skills
 
-### Programming Languages
-- Java
-- Pythonh
-- SQL
-- javaScript
-- HTML/CSS
-- PHP
+**Programming Languages:**  Java, Python, SQL, JavaScript, HTML/CSS, PHP
 
-### Frameworks & Technology
-- React
-- JUnit
-- Wordpress
-- Laravel
-- Spring Boot
-- Apache Derby
-- Maven
-- JDBC
+**Frameworks:** React, JUnit, Wordpress, Laravel, Spring Boot, Apache Derby, Maven, JDBC
 
-### Developer Tools
-- Git
-- VS Code
-- Visual Studio
-- IntelliJ IDEA
-- Eclipse
-- NetBeans
-- Figma
+**Developer Tools:** Git, VS Code, Visual Studio, IntelliJ IDEA, Eclipse, NetBeans, Figma
 
 ---
 
@@ -130,7 +97,7 @@ Mar 2025 – Nov 2025
 
 **Fiona Tabraham**
 
-CEO - CAPACITI
+🏢 CEO - CAPACITI
 
 ☎️ 021 003 7509
 
@@ -138,7 +105,7 @@ CEO - CAPACITI
 
 **Yumna Jamodien**
 
-CEO - Y Jamodien & Associates
+🏢 CEO - Y Jamodien & Associates
 
 ☎️ 068 081 3264
 
@@ -147,7 +114,7 @@ CEO - Y Jamodien & Associates
 ---
 
 ## 📹 Mock Interview Video
-
-## 🎥 Demo Video
-
+<video width="600" controls src="Lisakhanya Tshokolo mock interview 1.mp4">
+</video>
 [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/ZkisApV3ikU)
+
