@@ -47,7 +47,7 @@ Diploma in ICT: Application Development
 ---
 
 
-### Work Experience
+## Work Experience
 
 ### Junior Web Developer / Digital Marketing Inter
 **Y Jamodien & Associates**
