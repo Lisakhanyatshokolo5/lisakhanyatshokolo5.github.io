@@ -116,5 +116,5 @@ Mar 2025 – Nov 2025
 ## 📹 Mock Interview Video
 <video width="600" controls src="Lisakhanya Tshokolo mock interview 1.mp4">
 </video>
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/ZkisApV3ikU)
+[![Watch the mock interview]](https://youtu.be/ZkisApV3ikU)
 
