@@ -12,6 +12,9 @@
 
 🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
 
+
+
+
 ---
 
 ## 🎓 Education
@@ -27,6 +30,8 @@ National Senior Certification
 Diploma in ICT: Application Development
 
 2024-present
+
+
 
 ---
 
@@ -61,6 +66,7 @@ Diploma in ICT: Application Development
 
 ---
 
+
 ### Work Experience
 
 ### Junior Web Developer / Digital Marketing Inter
@@ -72,7 +78,7 @@ May 2021 - Dec 2022
 - Supported digital marketing campaigns through website optimization and content updates.
 - Performed performance analysis to enhance web presence.
 
----
+
 
 ### Web Developer
 **Younglings Africa**
@@ -83,7 +89,7 @@ Sep 2020 - Mar 2021
 - Collaborated with designers and stakeholders.
 - Implemented functional features and optimized performance.
 
----
+
 
 ### Student Intern
 **CAPACITI**
@@ -96,16 +102,54 @@ Mar 2020 - Aug 2020
 
 ---
 
+## 🚀 Projects
+
+### 🎓 Student Enrolment System  
+**Tech Stack:** Java, Maven, Apache Derby, SQL, Git  
+Oct 2025 – Nov 2025  
+
+- Developed a Student Enrolment System for managing course registrations.
+- Built a Java Swing GUI integrated with a relational database.
+- Applied JDBC for secure data handling and structured SQL queries.
+- Designed a multi-tier architecture supporting real-time enrolment updates.
+
+
+
+### 📱 Gumtree Mobile App Redesign  
+**Tool:** Figma  
+Mar 2025 – Nov 2025  
+
+- Redesigned the Gumtree mobile app applying UI/UX principles.
+- Improved usability, navigation flow, and visual consistency.
+- Created interactive prototypes and wireframes.
+- Focused on user-centered design and information architecture.
+
+---
+
 ## ☎️ References
 
 **Fiona Tabraham**
+
 CEO - CAPACITI
+
 ☎️ 021 003 7509
+
 📧 hello@capaciti.org.za
 
 **Yumna Jamodien**
+
 CEO - Y Jamodien & Associates
+
 ☎️ 068 081 3264
+
 📧 yumna@yja.co.za
 
 ---
+
+## 📹 Mock Interview Video
+
+<video width ="600" controls>
+<source src ="Lisakhanya Tshokolo mock interview 1.mp4" type="video/mp4">
+</video>
+
+[watch the interview](./Lisakhanya Tshokolo moc interview 1.mp4)
