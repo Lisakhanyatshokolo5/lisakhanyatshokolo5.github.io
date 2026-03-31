@@ -1,6 +1,9 @@
 # lisakhanya Tshokolo Resume
 
-📞 081 565 9910 | 📧 220239215@mycput.ac.za | 🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) | 🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
+📞 081 565 9910 
+📧 220239215@mycput.ac.za 
+🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) 
+🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
 
 
 ---
@@ -116,5 +119,4 @@ Mar 2025 – Nov 2025
 ## 📹 Mock Interview Video
 <video width="600" controls src="Lisakhanya Tshokolo mock interview 1.mp4">
 </video>
-[![Watch the mock interview]](https://youtu.be/ZkisApV3ikU)
 
