@@ -4,9 +4,9 @@
 
 📧 220239215@mycput.ac.za 
 
-🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) 
+🔗[LinkendIn] (www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) 
 
-🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
+🔗[GitHub] (github.com/Lisakhanyatshokolo5)
 
 
 ---
