@@ -148,8 +148,6 @@ CEO - Y Jamodien & Associates
 
 ## 📹 Mock Interview Video
 
-<video width ="600" controls>
-<source src ="Lisakhanya Tshokolo mock interview 1.mp4" type="video/mp4">
-</video>
+## 🎥 Demo Video
 
-[watch the interview](./Lisakhanya Tshokolo moc interview 1.mp4)
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/ZkisApV3ikU)
