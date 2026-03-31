@@ -1,9 +1,19 @@
 # lisakhanya Tshokolo Resume
 
 📞 081 565 9910 
+
 📧 220239215@mycput.ac.za 
+
 🔗[LinkendIn] (https://www.linkedin.com/in/lisakhanya-tshokolo-5157581a4/) 
+
 🔗[GitHub] (https://github.com/Lisakhanyatshokolo5)
+
+
+---
+
+## 💡 About Me
+
+Motivated ICT Application Development student with hands-on experience in Java, web development, and database integration. Skilled in building responsive applications and working with SQL and modern development tools. Passionate about creating efficient, user-focused software solutions and continuously improving technical and problem-solving skills.
 
 
 ---
@@ -119,4 +129,3 @@ Mar 2025 – Nov 2025
 ## 📹 Mock Interview Video
 <video width="600" controls src="Lisakhanya Tshokolo mock interview 1.mp4">
 </video>
-
